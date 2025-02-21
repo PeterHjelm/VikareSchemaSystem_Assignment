@@ -1,1 +1,0 @@
-# VikareSchemaSystem_Assignment
